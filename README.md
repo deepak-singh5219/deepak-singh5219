@@ -1,16 +1,16 @@
-### <i>Hey!</i> I'm Deepak Singh 👋
+﻿### <i>Hey!</i> I'm Deepak Singh 👋
 
 ---
 
-## I'm a Developer and Hustlers Teammate!!
+## I'm a Programmer and Web Developer
 
 <img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" />
 
 - 🌱 I’m currently exploring everything
-- ⚡️ Want to learn C++ in deep
+- ⚡️ Learning C++ and working on DSA concepts
 - 👯 Goal: Software Engineer
-- 🥅 2021 Goals: Contributions on Open Source
-- 📫 How to reach me: Singhdeepak5219@gmail.com
+- 🥅 2021 Goals: Contributions on Open Source, Competitive Programming
+- 📫 How to reach me: singhdeepak5219@gmail.com
 - ⚡ Fun fact: I love to do photography📷
 
 ---
@@ -48,15 +48,11 @@
   <a href="https://www.linkedin.com/in/deepak-singh-4344731b8/">
   <img alt="Deepak's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>&nbsp
-  <a href="  ">
-    <img alt="Deepak's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-  </a>&nbsp
+  
   <a href=" https://www.instagram.com/deepak_singh_5219/">
     <img alt="Deepak's Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
   </a>&nbsp
-  <a href="">
-    <img alt="Deepak's Facebook" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
-  </a>&nbsp
+ 
   
   
   <br /><br />
