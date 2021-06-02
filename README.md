@@ -1,4 +1,4 @@
-﻿### <i>Hey!</i> I'm Deepak Singh 👋
+﻿### <b>Hey!</b> I'm Deepak Singh 👋
 
 ---
 
