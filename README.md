@@ -4,14 +4,9 @@
 
 ## I'm a Full Stack Software Developer
 
-<img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/xTiN0FXnoSlDhSjgR2/giphy.gif" />
+<img align="right" alt="GIF" width="400" height="400" src="https://user-images.githubusercontent.com/84671689/201471677-45c87e27-c522-417a-b6fb-f91c7bae628c.png" />
 
-- 🌱 I’m currently exploring everything
-- ⚡️ Learning C++ and working on DSA concepts
-- 👯 Goal: Software Engineer
-- 🥅 2021 Goals: Contributions on Open Source, Competitive Programming
-- 📫 How to reach me: singhdeepak5219@gmail.com
-- ⚡ Fun fact: I love to do photography📷
+I am a Full Stack Javascript Developer. I love to code in javascript and have build projects with javascript. I'm quite confident, naturally curious, and perpetually working on improving my skills to be a better developer.
 
 ---
 
