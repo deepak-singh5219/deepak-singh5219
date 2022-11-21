@@ -1,12 +1,13 @@
 ﻿### <b>Hey!</b> I'm Deepak Singh 👋
 
 ---
+![banner](https://user-images.githubusercontent.com/84671689/202975660-e54eb0f5-3e75-4305-83bf-51c1ffb389ed.jpg)
 
-## I'm a Full Stack Software Developer
+## I'm a Full Stack Javascript Developer
 
-<img align="right" alt="GIF" width="400" height="400" src="https://user-images.githubusercontent.com/84671689/201471677-45c87e27-c522-417a-b6fb-f91c7bae628c.png" />
+<!-- <img align="right" alt="GIF" width="400" height="400" src="https://user-images.githubusercontent.com/84671689/201471677-45c87e27-c522-417a-b6fb-f91c7bae628c.png" /> -->
 
-I am a Full Stack Javascript Developer. I love to code in javascript and have build projects with javascript. I'm quite confident, naturally curious, and perpetually working on improving my skills to be a better developer.
+I am a Full Stack Javascript Developer. I love to code in javascript and have build projects with javascript. I'm quite confident, naturally curious, and perpetually working on improving my skills to be a better developer. Javascript is ❤.
 
 ---
 
